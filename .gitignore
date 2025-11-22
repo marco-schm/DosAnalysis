@@ -1,0 +1,5 @@
+data.csv
+dos_vs_benign_1000000.csv
+cnn_tuner/
+mlp_tuner/
+.idea/
